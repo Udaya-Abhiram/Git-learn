@@ -1,1 +1,4 @@
 Add styles to the index.html file
+
+
+Add some styling to make page colorful
